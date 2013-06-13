@@ -1,8 +1,5 @@
 package com.botonerajultimo;
 
-import java.util.HashMap;
-import java.util.Map;
-
 import android.app.Activity;
 import android.media.AudioManager;
 import android.media.SoundPool;
