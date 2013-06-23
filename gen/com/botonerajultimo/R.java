@@ -21,22 +21,24 @@ public final class R {
         public static final int activity_vertical_margin=0x7f050001;
     }
     public static final class drawable {
-        public static final int ic_launcher=0x7f020000;
+        public static final int button=0x7f020000;
+        public static final int button_orange=0x7f020001;
+        public static final int ic_launcher=0x7f020002;
     }
     public static final class id {
+        public static final int ImageButton01=0x7f090000;
+        public static final int ImageButton02=0x7f090001;
+        public static final int ImageButton03=0x7f090002;
+        public static final int ImageButton04=0x7f090003;
+        public static final int ImageButton05=0x7f090004;
+        public static final int ImageButton06=0x7f090005;
+        public static final int ImageButton07=0x7f090006;
+        public static final int ImageButton08=0x7f090007;
+        public static final int ImageButton09=0x7f090008;
         public static final int action_settings=0x7f090009;
-        public static final int button1=0x7f090000;
-        public static final int button2=0x7f090001;
-        public static final int button3=0x7f090002;
-        public static final int button4=0x7f090003;
-        public static final int button5=0x7f090004;
-        public static final int button6=0x7f090005;
-        public static final int button7=0x7f090006;
-        public static final int button8=0x7f090007;
-        public static final int button9=0x7f090008;
     }
     public static final class layout {
-        public static final int activity_main=0x7f030000;
+        public static final int main_view=0x7f030000;
     }
     public static final class menu {
         public static final int main=0x7f080000;
@@ -49,8 +51,9 @@ public final class R {
     public static final class string {
         public static final int action_settings=0x7f060001;
         public static final int app_name=0x7f060000;
-        public static final int app_title=0x7f060003;
-        public static final int hello_world=0x7f060002;
+        public static final int app_title=0x7f060002;
+        public static final int button=0x7f060003;
+        public static final int exit=0x7f060004;
     }
     public static final class style {
         /** 
