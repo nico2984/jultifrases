@@ -44,9 +44,18 @@ public final class R {
         public static final int main=0x7f080000;
     }
     public static final class raw {
-        public static final int button=0x7f040000;
-        public static final int jultifrase1=0x7f040001;
-        public static final int jultifrase2=0x7f040002;
+        public static final int aprete_3_veces=0x7f040000;
+        public static final int button=0x7f040001;
+        public static final int cuando_me_ganaste=0x7f040002;
+        public static final int gente_de_la_b=0x7f040003;
+        public static final int hace_como_2_meses=0x7f040004;
+        public static final int jultifrase1=0x7f040005;
+        public static final int jultifrase2=0x7f040006;
+        public static final int mitomano=0x7f040007;
+        public static final int que_hizo=0x7f040008;
+        public static final int san_silencio=0x7f040009;
+        public static final int ultimo_campeon=0x7f04000a;
+        public static final int vino_la_nena_sarco=0x7f04000b;
     }
     public static final class string {
         public static final int action_settings=0x7f060001;

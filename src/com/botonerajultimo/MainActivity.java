@@ -71,23 +71,23 @@ public class MainActivity extends Activity {
 		soundPool = new SoundPool(4, AudioManager.STREAM_MUSIC, 100);
 		soundPoolMap = new SparseIntArray();
 		soundPoolMap.put(b1.getId(),
-				soundPool.load(this, R.raw.button, 1));
+				soundPool.load(this, R.raw.aprete_3_veces, 1));
 		soundPoolMap.put(b2.getId(),
-				soundPool.load(this, R.raw.button, 1));
+				soundPool.load(this, R.raw.cuando_me_ganaste, 1));
 		soundPoolMap.put(b3.getId(),
-				soundPool.load(this, R.raw.button, 1));
+				soundPool.load(this, R.raw.gente_de_la_b, 1));
 		soundPoolMap.put(b4.getId(),
-				soundPool.load(this, R.raw.button, 1));
+				soundPool.load(this, R.raw.hace_como_2_meses, 1));
 		soundPoolMap.put(b5.getId(),
-				soundPool.load(this, R.raw.button, 1));
+				soundPool.load(this, R.raw.mitomano, 1));
 		soundPoolMap.put(b6.getId(),
-				soundPool.load(this, R.raw.button, 1));
+				soundPool.load(this, R.raw.que_hizo, 1));
 		soundPoolMap.put(b7.getId(),
-				soundPool.load(this, R.raw.button, 1));
+				soundPool.load(this, R.raw.san_silencio, 1));
 		soundPoolMap.put(b8.getId(),
-				soundPool.load(this, R.raw.button, 1));
+				soundPool.load(this, R.raw.ultimo_campeon, 1));
 		soundPoolMap.put(b9.getId(),
-				soundPool.load(this, R.raw.button, 1));
+				soundPool.load(this, R.raw.vino_la_nena_sarco, 1));
 	}
 	
 	public void playSound(ImageButton button) {
